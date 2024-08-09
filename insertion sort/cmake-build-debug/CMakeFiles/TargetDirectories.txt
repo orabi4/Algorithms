@@ -1,0 +1,3 @@
+/run/media/adel/Track/Algorithms/insertion sort/cmake-build-debug/CMakeFiles/insertion_sort.dir
+/run/media/adel/Track/Algorithms/insertion sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/adel/Track/Algorithms/insertion sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
